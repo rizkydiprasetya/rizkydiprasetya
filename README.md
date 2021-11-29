@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, I'm Rizky!
 
-<!--
-**rizkydiprasetya/rizkydiprasetya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💼 I'm currently working as Research Assitant at [Fachhochschule Südwestfalen](https://www.fh-swf.de/)
+- 🏢 The organizational repository can be found [here](https://github.com/fhswf)
+- 💬 Ask about me [here](https://github.com/rizkydiprasetya/rizkydiprasetya/issues)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Toolbox
+
+<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++ Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git Logo" width="50" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/en/5/5e/Gazebo_logo_without_text.svg" alt="Gazebo Logo" width="50" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="ROS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt="Raspi Logo" width="50" height="50"/>
+
+
+---
