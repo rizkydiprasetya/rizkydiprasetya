@@ -7,7 +7,6 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </p>
-
 <p align="center">
 <br> 💼 I'm currently working as Research Assitant at <a href="https://www.fh-swf.de/">Fachhochschule Südwestfalen</a>
 <br> 🏢 The organizational repository can be found <a href="https://github.com/fhswf">here</a>
