@@ -110,11 +110,11 @@
         </li>
         <li><b>Fault Detection Assessment using an extended FMEA and a Rule-based Expert System</b>
         <br><i>F. Arévalo, C. Tito, M. R. Diprasetya and A. Schwung, "Fault Detection Assessment using an extended FMEA and a Rule-based Expert System," 2019 IEEE 17th International Conference on Industrial Informatics (INDIN), 2019, pp. 740-745, doi: 10.1109/INDIN41052.2019.8972299.</i>
-        <br><a href="https://ieeexplore.ieee.org/document/8471970">See publication</a>
+        <br><a href="https://ieeexplore.ieee.org/document/8972299">See publication</a>
         </li>
         <li><b>A Cloud-based Architecture for Condition Monitoring based on Machine Learning</b>
         <br><i>F. Arévalo, M. R. Diprasetya and A. Schwung, "A Cloud-based Architecture for Condition Monitoring based on Machine Learning," 2018 IEEE 16th International Conference on Industrial Informatics (INDIN), 2018, pp. 163-168, doi: 10.1109/INDIN.2018.8471970.</i>
-        <br><a href="https://ieeexplore.ieee.org/document/8972299">See publication</a>
+        <br><a href="https://ieeexplore.ieee.org/document/8471970">See publication</a>
         </li>
     </ul>
 </details>
