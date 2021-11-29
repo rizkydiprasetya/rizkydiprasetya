@@ -2,7 +2,7 @@
 
 - 💼 I'm currently working as Research Assitant at [Fachhochschule Südwestfalen](https://www.fh-swf.de/)
 - 🏢 The organizational repository can be found [here](https://github.com/fhswf)
-- 💬 Ask about me [here](https://github.com/rizkydiprasetya/rizkydiprasetya/issues)
+- 💬 Ask about me [here](https://github.com/rizkydiprasetya/rizkydiprasetya/issues) or [hello@mail.rizkydiprasetya.com](mailto:hello@mail.rizkydiprasetya.com)
 
 ---
 
