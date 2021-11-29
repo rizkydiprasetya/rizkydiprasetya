@@ -28,6 +28,8 @@
 <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi">
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/MQTT-6c2cc7?style=for-the-badge&logo=eclipsemosquitto&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
 <img src="https://img.shields.io/badge/OPCUA-00a2ff?style=for-the-badge">
 </p>
 
@@ -85,6 +87,7 @@
             <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
             <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white">
             <img src="https://img.shields.io/badge/MQTT-6c2cc7?style=for-the-badge&logo=eclipsemosquitto&logoColor=white">
+            <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
             <img src="https://img.shields.io/badge/OPCUA-00a2ff?style=for-the-badge">
         </li>
         <li><b>Robot Operating System (ROS) based Mobile Robot</b>
