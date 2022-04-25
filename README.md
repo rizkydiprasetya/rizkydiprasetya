@@ -37,6 +37,7 @@
 		<td>32 GB RAM</td>
 	</tr>
 </tbody>
+</table>
 
 <h1 align="center">
 	🧰 Toolbox
