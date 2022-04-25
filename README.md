@@ -16,6 +16,8 @@
 <h1 align="center">
 	💻 Workstation
 </h1>
+
+<p align="center">
 <table>
 <thead>
 	<tr>
@@ -38,6 +40,7 @@
 	</tr>
 </tbody>
 </table>
+</p>
 
 <h1 align="center">
 	🧰 Toolbox
