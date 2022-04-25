@@ -21,7 +21,7 @@
 <table>
 <thead align="center">
 	<tr>
-		<th>Macbook</th>
+		<th>Laptop</th>
 		<th>PC</th>
 	</tr>
 </thead>
