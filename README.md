@@ -14,6 +14,10 @@
 </p1>
 
 <h1 align="center">
+	💻 Workstation
+</h1>
+
+<h1 align="center">
 	🧰 Toolbox
 </h1>
 
