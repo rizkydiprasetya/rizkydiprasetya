@@ -16,6 +16,27 @@
 <h1 align="center">
 	💻 Workstation
 </h1>
+<table>
+<thead>
+	<tr>
+		<th>Macbook</th>
+		<th>PC</th>
+	</tr>
+</thead>
+<tbody>
+	<tr>
+		<td>M1 Pro 10-Core CPU</td>
+		<td>AMD Ryzen 7 1700 OC 3.8 Ghz</td>
+	</tr>
+	<tr>
+		<td>M1 Pro 16-Core GPU</td>
+		<td>NVIDIA GTX 1070</td>
+	</tr>
+	<tr>
+		<td>32 GB RAM</td>
+		<td>32 GB RAM</td>
+	</tr>
+</tbody>
 
 <h1 align="center">
 	🧰 Toolbox
