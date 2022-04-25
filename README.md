@@ -17,15 +17,15 @@
 	💻 Workstation
 </h1>
 
-<p align="center">
+<div align="center">
 <table>
-<thead>
+<thead align="center">
 	<tr>
 		<th>Macbook</th>
 		<th>PC</th>
 	</tr>
 </thead>
-<tbody>
+<tbody align="center">
 	<tr>
 		<td>M1 Pro 10-Core CPU</td>
 		<td>AMD Ryzen 7 1700 OC 3.8 Ghz</td>
@@ -40,7 +40,7 @@
 	</tr>
 </tbody>
 </table>
-</p>
+</div>
 
 <h1 align="center">
 	🧰 Toolbox
