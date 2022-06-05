@@ -10,7 +10,7 @@
 <p align="center">
 <br> 💼 I'm currently working as Research Assitant at <a href="https://www.fh-swf.de/">Fachhochschule Südwestfalen</a>
 <br> 🏢 The organizational repository can be found <a href="https://github.com/fhswf">here</a>
-<br> 💬 Ask about me <a href="https://github.com/rizkydiprasetya/rizkydiprasetya/issues">here</a> or <a href="mailto:mail@rizkydiprasetya.com">mail@rizkydiprasetya.com</a>
+<br> 💬 Ask about me <a href="https://github.com/rizkydiprasetya/rizkydiprasetya/issues">here</a> or <a href="mailto:personal@rizkydiprasetya.com">personal@rizkydiprasetya.com</a>
 </p1>
 
 <h1 align="center">
