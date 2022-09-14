@@ -136,6 +136,11 @@
     	Publication 📚
     </h2>
 	<ul>
+	<li><b>MLPro 1.0 - Standardized reinforcement learning and game theory in Python</b>
+        <br><i>D. Arend, S. Yuwono, M. R. Diprasetya and A. Schwung, “MLPro 1.0 - Standardized reinforcement learning
+and game theory in Python,” Machine Learning with Applications, 2022, doi: 10.1016/j.mlwa.2022.100341.</i>
+        <br><a href="https://www.sciencedirect.com/science/article/pii/S2666827022000482">See publication</a>
+        </li>
     	<li><b>Monitoring and Forecasting of Air Emissions with IoT Measuring Stations and a SaaS Cloud Application</b>
         <br><i>F. A. N., M. T. Ibrahim, R. M. Diprasetya, O. O. Flores and A. Schwung, "Monitoring and Forecasting of Air Emissions with IoT Measuring Stations and a SaaS Cloud Application," 2020 2nd International Conference on Societal Automation (SA), 2021, pp. 1-6, doi: 10.1109/SA51175.2021.9507127.</i>
         <br><a href="https://ieeexplore.ieee.org/document/9507127">See publication</a>
