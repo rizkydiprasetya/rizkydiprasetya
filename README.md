@@ -100,6 +100,14 @@
         	<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
             <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
         </li>
+	<li><b>Implementation of Path Planning for Robot Welding Station</b>
+        <br><i>July 2022 - now</i>
+        <br>
+        	<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+            <img src="https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white">
+		<img src="https://img.shields.io/badge/OPCUA-00a2ff?style=for-the-badge">
+		<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+        </li>	
         <li><b>Remote Condition Monitoring for Pump</b>
         <br><i>Oct 2020 - Sep 2021</i>
         <br>The project description can be found <a href="https://www.hn-nrw.de/mehr-transparenz-fuer-die-pumpe/">here</a>
