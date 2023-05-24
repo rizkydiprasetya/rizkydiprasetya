@@ -95,13 +95,14 @@
 	<ul>
     	<li><b>MLPro - A Synoptic Framework for Standardized Machine Learning Tasks in Python</b>
         <br><i>Mar 2021 - now</i>
-        <br>The project description can be found <a href="https://www.researchgate.net/project/MLPro-A-Synoptic-Framework-for-Standardized-Machine-Learning-Tasks-in-Python">here</a>
+        <br>The project description can be found <a href="https://github.com/fhswf/MLPro">here</a>
         <br>
         	<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
             <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
         </li>
 	<li><b>Implementation of Path Planning for Robot Welding Station</b>
         <br><i>July 2022 - now</i>
+	<br>The methodologies are published <a href="https://www.researchgate.net/publication/369927628_Integration_of_ABB_Robot_Manipulators_and_Robot_Operating_System_for_Industrial_Automation">here</a>
         <br>
         	<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
             <img src="https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white">
