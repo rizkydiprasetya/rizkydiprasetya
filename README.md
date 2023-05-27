@@ -86,6 +86,9 @@
     	<li><b>Fachhochschule Südwestfalen</b>
         <br>Master of Science (M.Sc.), System Engineering and Engineering Management
         <br><i>2016 - 2017</i>
+	<li><b>Swiss German University</b>
+        <br>Bachelor of Engineering (B.Eng.), Mechatronic
+        <br><i>2011 - 2015</i>
     </ul>
     <h2 align="center">
     	Work Experience 🏣
@@ -123,7 +126,12 @@
             <img src="https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white">
 		<img src="https://img.shields.io/badge/OPCUA-00a2ff?style=for-the-badge">
 		<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
-        </li>	
+        </li>
+	<li><b>Chess Engine with Robot Manipulator</b>
+        <br><i>January 2023 - now</i>
+        <br>
+        	<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+        </li>
         <li><b>Remote Condition Monitoring for Pump</b>
         <br><i>Oct 2020 - Sep 2021</i>
         <br>The project description can be found <a href="https://www.hn-nrw.de/mehr-transparenz-fuer-die-pumpe/">here</a>
@@ -160,6 +168,14 @@
     	Publication 📚
     </h2>
 	<ul>
+	<li><b>Integration of ABB Robot Manipulators and Robot Operating System for Industrial Automation</b>
+        <br><i>M. R. Diprasetya, S. Yuwono, M. Löppenberg and A. Schwung, “Integration of ABB Robot Manipulators and Robot Operating System for Industrial Automation,” INDIN, Accepted 2023</i>
+        <br><a href="https://www.researchgate.net/publication/369927628_Integration_of_ABB_Robot_Manipulators_and_Robot_Operating_System_for_Industrial_Automation">See publication</a>
+        </li>
+	<li><b>MLPro-MPPS—A high-performance simulation framework for customizable production systems</b>
+        <br><i>S. Yuwono, M. Löppenberg, D. Arend, M. R. Diprasetya and A. Schwung, “MLPro-MPPS—A high-performance simulation framework for customizable production systems,” Software Impacts, 2023, doi: 10.1016/j.simpa.2023.100509.</i>
+        <br><a href="https://www.softwareimpacts.com/article/S2665-9638(23)00046-5/fulltext">See publication</a>
+        </li>
 	<li><b>MLPro 1.0 - Standardized reinforcement learning and game theory in Python</b>
         <br><i>D. Arend, S. Yuwono, M. R. Diprasetya and A. Schwung, “MLPro 1.0 - Standardized reinforcement learning
 and game theory in Python,” Machine Learning with Applications, 2022, doi: 10.1016/j.mlwa.2022.100341.</i>
