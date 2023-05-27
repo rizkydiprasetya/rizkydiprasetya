@@ -6,12 +6,26 @@
 <a href="https://www.linkedin.com/in/mochammad-rizky-diprasetya/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+<a href="https://www.researchgate.net/profile/Mochammad-Rizky-Diprasetya">
+    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" />
+</a>
 </p>
 <p align="center">
 <br> 💼 I'm currently working as Research Assitant at <a href="https://www.fh-swf.de/">Fachhochschule Südwestfalen</a>
 <br> 🏢 The organizational repository can be found <a href="https://github.com/fhswf">here</a>
-<br> 💬 Ask about me <a href="https://github.com/rizkydiprasetya/rizkydiprasetya/issues">here</a> or <a href="mailto:personal@rizkydiprasetya.com">personal@rizkydiprasetya.com</a>
-</p1>
+<br> 💬 Contact me here: 
+<p align="center">
+<a href="mailto:personal@rizkydiprasetya.com">
+    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
+</a>
+<a href="https://matrix.to/#/@rdiprasetya:matrix.org">
+    <img src="https://img.shields.io/badge/Element-0DBD8B?style=for-the-badge&logo=element&logoColor=white" />
+</a>
+<a href="https://discord.gg/MzuTS3w6AR">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+</p>
+</p>
 
 <h1 align="center">
 	💻 Workstation
@@ -60,6 +74,7 @@
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
 <img src="https://img.shields.io/badge/OPCUA-00a2ff?style=for-the-badge">
+<img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
 </p>
 
 <details>
