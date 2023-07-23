@@ -3,6 +3,9 @@
     Hi there 👋, I'm Rizky!
 </h1>
 <p align="center">
+<a href="https://app.daily.dev/rizkydiprasetya"><img src="https://api.daily.dev/devcards/e99a131d2ccc4997a8e8790124b80ffd.png?r=ka0" width="400" alt="Mochammad Rizky Diprasetya's Dev Card"/></a>
+</p>
+<p align="center">
 <a href="https://www.linkedin.com/in/mochammad-rizky-diprasetya/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
