@@ -11,7 +11,8 @@
 </a>
 </p>
 <p align="center">
-<br> 💼 I'm a Test Engineer. Passionate also with machine learning in robotics.</a>
+<br> 💼 I'm a Test Engineer.
+<br> 👓 Passionate with machine learning in robotics.
 <br> 💬 Contact me here: 
 <p align="center">
 <a href="mailto:personal@rizkydiprasetya.com">
