@@ -91,9 +91,12 @@
     	Work Experience 🏣
     </h2>
     <ul>
+	<li><b>Delta Energy Systems (Germany) GmbH</b>
+        <br>Test Engineer
+        <br><i>Oct 2023 - Now</i></li>
     	<li><b>Fachhochschule Südwestfalen</b>
         <br>Research Assistant
-        <br><i>Jan 2020 - now</i></li>
+        <br><i>Jan 2020 - Sep 2023</i></li>
         <li><b>Fachhochschule Bielefeld</b>
         <br>Research Assistant
         <br><i>Nov 2018 - Dec 2019</i></li>
