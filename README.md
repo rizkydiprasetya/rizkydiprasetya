@@ -11,8 +11,7 @@
 </a>
 </p>
 <p align="center">
-<br> 💼 I'm a Test Engineer</a>
-<br> 🏢 The organizational repository can be found <a href="https://github.com/fhswf">here</a>
+<br> 💼 I'm a Test Engineer. Passionate also with machine learning in robotics.</a>
 <br> 💬 Contact me here: 
 <p align="center">
 <a href="mailto:personal@rizkydiprasetya.com">
