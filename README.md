@@ -3,9 +3,6 @@
     Hi there 👋, I'm Rizky!
 </h1>
 <p align="center">
-<a href="https://app.daily.dev/rizkydiprasetya"><img src="https://api.daily.dev/devcards/e99a131d2ccc4997a8e8790124b80ffd.png?r=ka0" width="400" alt="Mochammad Rizky Diprasetya's Dev Card"/></a>
-</p>
-<p align="center">
 <a href="https://www.linkedin.com/in/mochammad-rizky-diprasetya/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -14,15 +11,12 @@
 </a>
 </p>
 <p align="center">
-<br> 💼 I'm currently working as Research Assitant at <a href="https://www.fh-swf.de/">Fachhochschule Südwestfalen</a>
+<br> 💼 I'm a Test Engineer</a>
 <br> 🏢 The organizational repository can be found <a href="https://github.com/fhswf">here</a>
 <br> 💬 Contact me here: 
 <p align="center">
 <a href="mailto:personal@rizkydiprasetya.com">
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
-</a>
-<a href="https://matrix.to/#/@rdiprasetya:matrix.org">
-    <img src="https://img.shields.io/badge/Element-0DBD8B?style=for-the-badge&logo=element&logoColor=white" />
 </a>
 <a href="https://discord.gg/MzuTS3w6AR">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
