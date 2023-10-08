@@ -116,7 +116,7 @@
             <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
         </li>
 	<li><b>Implementation of Path Planning for Robot Welding Station</b>
-        <br><i>July 2022 - now</i>
+        <br><i>July 2022 - Sep 2023</i>
 	<br>The methodologies are published <a href="https://www.researchgate.net/publication/369927628_Integration_of_ABB_Robot_Manipulators_and_Robot_Operating_System_for_Industrial_Automation">here</a>
         <br>
         	<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
