@@ -3,14 +3,6 @@
     Hi there 👋, I'm Rizky!
 </h1>
 <p align="center">
-<a href="https://www.linkedin.com/in/mochammad-rizky-diprasetya/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.researchgate.net/profile/Mochammad-Rizky-Diprasetya">
-    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" />
-</a>
-</p>
-<p align="center">
 <br> 💼 I'm a Test Engineer.
 <br> 👓 Passionate with machine learning in robotics.
 <br> 💬 Contact me here: 
@@ -20,6 +12,12 @@
 </a>
 <a href="https://discord.gg/MzuTS3w6AR">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/mochammad-rizky-diprasetya/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.researchgate.net/profile/Mochammad-Rizky-Diprasetya">
+    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" />
 </a>
 </p>
 </p>
