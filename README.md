@@ -37,11 +37,11 @@
 <tbody align="center">
 	<tr>
 		<td>M1 Pro 10-Core CPU</td>
-		<td>AMD Ryzen 7 1700 OC 3.8 Ghz</td>
+		<td>AMD Ryzen 7 7800x3d</td>
 	</tr>
 	<tr>
 		<td>M1 Pro 16-Core GPU</td>
-		<td>NVIDIA GTX 1070</td>
+		<td>NVIDIA RTX 4080 Super</td>
 	</tr>
 	<tr>
 		<td>32 GB RAM</td>
