@@ -37,7 +37,7 @@
 <tbody align="center">
 	<tr>
 		<td>M1 Pro 10-Core CPU</td>
-		<td>AMD Ryzen 7 7800x3d</td>
+		<td>AMD Ryzen 7 7800X3D</td>
 	</tr>
 	<tr>
 		<td>M1 Pro 16-Core GPU</td>
